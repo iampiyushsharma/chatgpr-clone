@@ -26,7 +26,7 @@ const Navbar = () => {
     textAlign={'center'} 
     sx={{boxShadow:3, mb:2}}>
       <Typography variant='h1' color={"primary"} fontWeight="bold">
-        AI GPT CLone
+        Simple-AI
       </Typography>
       {loggedIn ? (
         <>
